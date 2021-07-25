@@ -3,6 +3,6 @@ Imagine quem uma situação de emergência, chegaram vacinas no aeroporo Santos 
 
 Assim o objetivo do trabalho é encontrar a melhor rota de distribuição para essas regiões.
 
-OBS.: para visualização de mapas use -> https://nbviewer.jupyter.org/github/DanielRZO/Algoritmo_Genetico_problema_de_ordem/blob/main/Trabalho_BI_master_Otimiza%C3%A7%C3%A3o_%281%29.ipynb
+OBS.: para visualização dos mapas use -> https://nbviewer.jupyter.org/github/DanielRZO/Algoritmo_Genetico_problema_de_ordem/blob/main/Trabalho_BI_master_Otimiza%C3%A7%C3%A3o_%281%29.ipynb
 
 Feito apenas com mapas grátis
